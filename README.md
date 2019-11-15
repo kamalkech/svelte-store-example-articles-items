@@ -7,7 +7,8 @@ This is a small example for [Svelte](https://svelte.dev) apps.
 Install the dependencies...
 
 ```bash
-cd svelte-app
+https://github.com/kamalkech/svelte-store-example-articles-items.git
+cd svelte-store-example-articles-items
 npm install
 ```
 
